@@ -1,0 +1,6 @@
+W:\Faculdades\Ciência da Computação\4 semestre\C#\ATPS - 2 bimestre\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+W:\Faculdades\Ciência da Computação\4 semestre\C#\ATPS - 2 bimestre\Pessoa\Pessoa\obj\Debug\Pessoa.csprojResolveAssemblyReference.cache
+W:\Faculdades\Ciência da Computação\4 semestre\C#\ATPS - 2 bimestre\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+W:\Faculdades\Ciência da Computação\4 semestre\C#\ATPS - 2 bimestre\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+W:\Faculdades\Ciência da Computação\4 semestre\C#\ATPS - 2 bimestre\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+W:\Faculdades\Ciência da Computação\4 semestre\C#\ATPS - 2 bimestre\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
